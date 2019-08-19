@@ -40,7 +40,7 @@ Answer:
 27.［for]
 28.plate[for]
 29.[for="Vitaly"]
-30.[for^="Sam"],[for^="Sarah"]    [for^="Sa"]||[for^="S"]
-31.[for$="Hayato"],[for$="Minato"]    [for$="to"]||[for$="o"]
-32.[for*="Robbie"],[for*="Bobby"]    [for*="obb"]||[for*="bb"]||[for*="ob"]||[for*="o"]||[for*="b"]
+30.[for^="Sa"]  
+31.[for$="ato"] 
+32.[for*=obb]   或：[for*="bb"]||[for*="ob"]||[for*="o"]||[for*="b"]
 ```
